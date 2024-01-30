@@ -13,6 +13,7 @@ yarn-error.log
 # Xcode
 #
 build/
+!plugin/build
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -34,6 +35,7 @@ project.xcworkspace
 # Android/IntelliJ
 #
 build/
+!plugin/build
 .idea
 .gradle
 local.properties
